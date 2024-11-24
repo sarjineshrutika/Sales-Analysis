@@ -1,4 +1,5 @@
-*Sales Data Dashboard*
+                                         *Sales Data Dashboard*
+
 This repository contains an Excel-based sales data dashboard designed to visualize and analyze business performance metrics.
 
 *Key Features:
